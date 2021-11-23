@@ -4,5 +4,5 @@ def convert(miles):
     return int(miles) * 1.609344
 
 
-a = convert(10)
+a = convert(2)
 print(str(a) + " км")
